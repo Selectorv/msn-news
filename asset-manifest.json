@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/msn-news/static/css/main.989422e3.css",
+    "main.js": "/msn-news/static/js/main.98f1b586.js",
+    "static/js/453.8252d512.chunk.js": "/msn-news/static/js/453.8252d512.chunk.js",
+    "index.html": "/msn-news/index.html",
+    "main.989422e3.css.map": "/msn-news/static/css/main.989422e3.css.map",
+    "main.98f1b586.js.map": "/msn-news/static/js/main.98f1b586.js.map",
+    "453.8252d512.chunk.js.map": "/msn-news/static/js/453.8252d512.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.989422e3.css",
+    "static/js/main.98f1b586.js"
+  ]
+}
